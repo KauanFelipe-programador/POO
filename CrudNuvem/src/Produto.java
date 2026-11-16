@@ -12,9 +12,9 @@ public class Produto {
     public static void main(String[] args) {
 
         // CONEXAO COM O RAILWAY
-        String url = "REMOVIDO POR SEGURANÇA";
+        String url = "mysql://root:kIBnydyOngcVAXpyZCwLRqAhahRDRmhv@mysql.railway.internal:3306/railway";
         String usuariobanco = "root";
-        String bancosenha = "REMOVIDO POR SEGURANÇA";
+        String bancosenha = "kIBnydyOngcVAXpyZCwLRqAhahRDRmhv";
 
         Scanner sc = new Scanner(System.in);
 
