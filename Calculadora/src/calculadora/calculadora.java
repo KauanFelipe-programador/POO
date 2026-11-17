@@ -24,7 +24,7 @@ public class calculadora {
     // Cor baseada na data de nascimento: 05/11/2006
     // RGB: 5, 11, 206
     private static final Color AZUL_NASCIMENTO =
-            new Color(5, 11, 206);
+            new Color(105, 111, 206);
 
     private static final Color FUNDO =
             new Color(230, 234, 255);
