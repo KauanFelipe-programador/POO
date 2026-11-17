@@ -14,7 +14,7 @@ public class Produto {
         // CONEXAO COM O RAILWAY
         String url = "mysql://root:kIBnydyOngcVAXpyZCwLRqAhahRDRmhv@mysql.railway.internal:3306/railway";
         String usuariobanco = "root";
-        String bancosenha = "kIBnydyOngcVAXpyZCwLRqAhahRDRmhv";
+        String bancosenha = "kIBnydyOngcVAXpyZCwLRqAhahRDRmh";
 
         Scanner sc = new Scanner(System.in);
 
