@@ -10,6 +10,11 @@ public class ConsumirCep {
 
     public static void main(String[] args) {
 
+        // Identificação
+        System.out.println("Aluno: Kauan Felipe");
+        System.out.println("RA: 0023597");
+        System.out.println("-------------------------");
+
         String cep = "72550022";
         String url = "https://viacep.com.br/ws/" + cep + "/json/";
 
