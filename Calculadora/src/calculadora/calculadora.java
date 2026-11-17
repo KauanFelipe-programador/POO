@@ -22,7 +22,7 @@ public class calculadora {
     private static final String RA = "0023597";
 
     // Cor baseada na data de nascimento: 05/11/2006
-    // RGB: 5, 11, 206
+    // RGB: 105, 111, 206
     private static final Color AZUL_NASCIMENTO =
             new Color(105, 111, 206);
 
